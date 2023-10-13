@@ -2,13 +2,13 @@
 
 
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](#-developing-the-provider)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Dell-Networking/community_sonic_terraform_provider/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-Mozilla-blue.svg)](https://github.com/Dell-Networking/community_sonic_terraform_provider/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/Dell-Networking/community_sonic_terraform_provider)](https://github.com/Dell-Networking/community_sonic_terraform_provider/issues)
 
 Built and maintained by [Ben Goldstone](https://github.com/benjamingoldstone/) and [Contributors](https://github.com/Dell-Networking/community_sonic_terraform_provider/graphs/contributors)
 
 ------------------
-
+Welcome to the Terraform Provider for Community SONiC!
 
 - [Requirements](#-requirements)
 - [Building the Provider](#-building-the-provider)
@@ -16,8 +16,6 @@ Built and maintained by [Ben Goldstone](https://github.com/benjamingoldstone/) a
 - [Adding Dependencies](#-adding-dependencies)
 - [Using the Provider](#-using-the-provider)
 - [Developing the Provider](#-developing-the-provider)
-
-Welcome to the Terraform Provider for Community SONiC!
 
 You can find the provider on the [Hashicorp Terraform Registry](https://registry.terraform.io/dell/community-sonic)
 
